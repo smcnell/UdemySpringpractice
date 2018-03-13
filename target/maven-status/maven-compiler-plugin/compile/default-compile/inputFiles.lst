@@ -1,4 +1,6 @@
-/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/jee/UserValidationService.java
-/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/jee/LoginServlet.java
-/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/springmvc/LoginController.java
-/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/jee/LoginService.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/todo/TodoService.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/todo/TodoController.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/todo/Todo.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/login/LoginController.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/login/LoginService.java
+/Users/shannonmcnellis/eclipse-workspace/first-web-application/src/main/java/com/in28minutes/login/UserValidationService.java
